@@ -284,105 +284,105 @@ performance of genomic pipelines </a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(10).pdf" style="text-decoration:none;">Building a Secure Software Supply Chain using Docker </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(11).pdf" style="text-decoration:none;">Oracle Database Docker Containers on HPE 3PAR Storage</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(12).pdf" style="text-decoration:none;">In Search of the Ideal Storage Configuration for Docker Containers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(13).pdf" style="text-decoration:none;">Load Balancing using Docker and Kubernetes: A Comparative Study</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(14).pdf" style="text-decoration:none;">Using R via Rocker - A Brief Introduction to Docker for R</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(15).pdf" style="text-decoration:none;">Bolt: Towards a Scalable Docker Registry via Hyperconvergence</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(16).pdf" style="text-decoration:none;">Containerized Docker Application Lifecycle with Microsoft Tools and Platform</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(17).pdf" style="text-decoration:none;">An Updated Performance Comparison of
+Virtual Machines and Linux Containers</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(18).pdf" style="text-decoration:none;">Distributed Systems of Microservices Using Docker and Serfnode</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(19).pdf" style="text-decoration:none;">Learning Docker</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(20).pdf" style="text-decoration:none;">Performance Of Enterprise Web Applications In Docker Containers On Vmware Vsphere 6.5</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(21).pdf" style="text-decoration:none;">A comparison between
+serverless and Docker container deployments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(22).pdf" style="text-decoration:none;">SQL Server 2019 Containers on Linux: 
+Software Development Use Cases Using Dell EMC Infrastructure</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(23).pdf" style="text-decoration:none;">Docker - The Future of Virtualization</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(24).pdf" style="text-decoration:none;">A Survey on Docker Container and its Use Cases</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(25).pdf" style="text-decoration:none;">My VM is Lighter (and Safer) than your Container</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(26).pdf" style="text-decoration:none;">Docker ecosystem - Vulnerability Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(27).pdf" style="text-decoration:none;">Docker: Lightweight Linux Containers for Consistent Development and Deployment</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(28).pdf" style="text-decoration:none;">Deploying an application using Docker and Kubernetes</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(29).pdf" style="text-decoration:none;">Performance Analysis of Containerized Applications on Local and Remote Storage </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(30).pdf" style="text-decoration:none;">Understanding and Hardening
+Linux Containers</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(31).pdf" style="text-decoration:none;">Docker Networking and
+Service Discovery</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(32).pdf" style="text-decoration:none;">Real-Time Containers: A Survey</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(33).pdf" style="text-decoration:none;">Docker and Kubernetes:
+Changing the OpenText Documentum deployment model</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(34).pdf" style="text-decoration:none;">A Study of Security Vulnerabilities on Docker Hub</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(35).pdf" style="text-decoration:none;">Model-Driven Management of Docker Containers</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(36).pdf" style="text-decoration:none;">DockerPedia: a Knowledge Graph of Docker Images</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(37).pdf" style="text-decoration:none;">GUIdock: Using Docker Containers with a
+Common Graphics User Interface to Address the Reproducibility of Research</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(38).pdf" style="text-decoration:none;">Powering
+Microservices with Docker</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(39).pdf" style="text-decoration:none;">The Docker Book</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(40).pdf" style="text-decoration:none;">An Attacker Looks at Docker:
+Approaching Multi-Container Applications</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(41).pdf" style="text-decoration:none;">Virtualization Using Docker Containers: For Reproducible Environments and Containerized Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(42).pdf" style="text-decoration:none;">Oracle WebLogic Server on Docker Containers</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(43).pdf" style="text-decoration:none;">Application Hosting on the
+Cisco Catalyst 9000 Series Switches</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(44).pdf" style="text-decoration:none;">Managing Applications in Docker
+Containers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(45).pdf" style="text-decoration:none;">Docker and the Three
+Ways of DevOps</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(46).pdf" style="text-decoration:none;">Introduction to
+Container Security</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(47).pdf" style="text-decoration:none;">Introduction to
+Container Security: Understanding the isolation properties of Docker</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(48).pdf" style="text-decoration:none;">Modern Application
+Architecture for the Enterprise: Delivering agility, portability and control with Docker Containers as a Service (CaaS)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(49).pdf" style="text-decoration:none;">Understanding the Security Risks of Docker Hub</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(50).pdf" style="text-decoration:none;">Docker - Beginner Biologist 1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(51).pdf" style="text-decoration:none;">docker CLI and Dockerfile Cheat Sheet</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(52).pdf" style="text-decoration:none;">Value-Based Allocation of Docker Containers</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(53).pdf" style="text-decoration:none;">Introduction to Docker</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(54).pdf" style="text-decoration:none;">The next step in
+server virtualization: How containers are changing the cloud and application landscape </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(55).pdf" style="text-decoration:none;">An Introduction to Rocker: Docker
+Containers for R</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(56).pdf" style="text-decoration:none;">Running Docker* Containers on Intel® Xeon Phi™ Processors </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(57).pdf" style="text-decoration:none;">Efficient Service Handoff Across Edge Servers via Docker Container Migration</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(58).pdf" style="text-decoration:none;">Fast Docker container deployment
+in Fog computing infrastructures</a></li>
     </ul>
 
 
