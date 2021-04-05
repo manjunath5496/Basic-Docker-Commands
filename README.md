@@ -267,28 +267,23 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(1).pdf" style="text-decoration:none;">Comparative Analysis on Docker and Virtual Machine in Cloud Computing</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(2).pdf" style="text-decoration:none;">An Introduction to Docker and Analysis of its Performance</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(3).pdf" style="text-decoration:none;">An introduction to Docker for reproducible research, with examples from the R environment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(4).pdf" style="text-decoration:none;">A Comparative Study of Containers and Virtual Machines in Big Data Environment</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(5).pdf" style="text-decoration:none;">Docker Toolkit for Data Scientists – How to Start Doing Data Science in Minutes!</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(6).pdf" style="text-decoration:none;">2019 Container
+Adoption Survey</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(7).pdf" style="text-decoration:none;">Design patterns for container-based distributed systems</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(8).pdf" style="text-decoration:none;"> The impact of Docker containers on the
+performance of genomic pipelines </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(9).pdf" style="text-decoration:none;">An Introduction to Docker and Analysis of its Performance</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(10).pdf" style="text-decoration:none;">Building a Secure Software Supply Chain using Docker </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
