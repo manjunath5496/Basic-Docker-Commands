@@ -383,6 +383,13 @@ Containers for R</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(58).pdf" style="text-decoration:none;">Fast Docker container deployment
 in Fog computing infrastructures</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(59).pdf" style="text-decoration:none;">CIS Docker Community Edition Benchmark</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-Docker-Commands/blob/master/d(60).pdf" style="text-decoration:none;">When Tcl meets Docker</a></li>
+
+
+
     </ul>
 
 
